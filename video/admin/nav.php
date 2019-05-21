@@ -7,9 +7,9 @@
             <div class="collapse navbar-collapse" id="colapseNav">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a href="news-read.php" class="nav-link">News</a></li>
-                    <li class="nav-item"><a href="catalog.php" class="nav-link">Catalog</a></li>
-                    <li class="nav-item"><a href="pricelist.php" class="nav-link">Genres</a></li>
-                    <li class="nav-item"><a href="contact.php" class="nav-link">Users</a></li>
+                    <li class="nav-item"><a href="products-read.php" class="nav-link">Catalog</a></li>
+                    <li class="nav-item"><a href="genre-read.php" class="nav-link">Genres</a></li>
+                    <li class="nav-item"><a href="user-read.php" class="nav-link">Users</a></li>
                 </ul>
             </div>
             <div class="nav justify-content-end">
